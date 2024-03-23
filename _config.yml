@@ -10,8 +10,8 @@ description: Blog about travelling
 
 baseurl: ""
 
-navigation:
-  - text: Blog
-    url: /
-  - text: O nas
-    url: /about/
+# navigation:
+#   - text: Blog
+#     url: /
+#   - text: O nas
+#     url: /about/
