@@ -16,7 +16,7 @@ navigation:
   - text: O nas
     url: /travel-blog/about.html
   - text: Tagi
-    url: /travel-blog/tags/
+    url: /travel-blog/tags.html
 
 # Plugins
 plugins:
