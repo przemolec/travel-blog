@@ -1,6 +1,6 @@
 remote_theme: JustGoodThemes/Scriptor-Jekyll-Theme
 
-lang: pl-PL
+# lang: pl-PL
 
 title: Travel Blog
 
@@ -8,10 +8,10 @@ author: Weroniczka
 
 description: Blog about travelling
 
-baseurl: ""
+# baseurl: ""
 
-# navigation:
-#   - text: Blog
-#     url: /
-#   - text: O nas
-#     url: /about/
+navigation:
+  - text: Blog
+    url: /
+  - text: O nas
+    url: /about/
