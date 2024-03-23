@@ -15,3 +15,11 @@ navigation:
     url: /travel-blog/
   - text: O nas
     url: /travel-blog/about.html
+
+# Plugins
+plugins:
+  - jekyll-paginate
+
+# http://jekyllrb.com/docs/pagination/
+paginate: 3
+paginate_path: '/page:num/'
