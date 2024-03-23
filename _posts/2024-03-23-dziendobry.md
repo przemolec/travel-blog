@@ -5,6 +5,7 @@ description: "Opis wpisu? Czy coś takiego"
 date: 2024-03-23
 feature_image: images/abc.jpg
 tags: [tag1,tag2]
+author: pszemo
 ---
 # Siema 
 ## dzien dobry 
