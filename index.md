@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Siema na blogu
 ---
-Cześć! Pierwszy wpis!
+Tutaj podtytuł
