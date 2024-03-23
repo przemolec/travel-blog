@@ -8,10 +8,10 @@ author: Weroniczka
 
 description: Blog about travelling
 
-# baseurl: ""
+baseurl: /travel-blog
 
 navigation:
   - text: Blog
     url: /
   - text: O nas
-    url: /about/
+    url: /about
