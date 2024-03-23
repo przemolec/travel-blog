@@ -8,10 +8,11 @@ author: Weroniczka
 
 description: Blog about travelling
 
-baseurl: /travel-blog
+baseurl: /travel-blog/
+url: https://przemolec.github.io
 
 navigation:
   - text: Blog
     url: /
   - text: O nas
-    url: /about
+    url: /about/
